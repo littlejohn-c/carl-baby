@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carl-baby
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in getting a job
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me ...
 
