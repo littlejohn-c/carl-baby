@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carl-baby
-- 👀 I’m interested in getting a job
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested front-end developer positions
+- 🌱 I’m currently learning Python & React.js
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me ...
 
